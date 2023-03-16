@@ -24,6 +24,30 @@
         ]
     },
     {
+        "symbol": "HOP",
+        "name": "HOP",
+        "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/HOP/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "cbETH",
+        "name": "Coinbase Wrapped Staked ETH",
+        "address": "0xD0bb78d0B337aA6D3A0530DD2e58560bf00851f1",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
         "symbol": "USDT",
         "name": "Tether USD",
         "address": "0xC2C527C0CACF457746Bd31B2a698Fe89de2b6d49",
@@ -67,6 +91,18 @@
         "decimals": 18,
         "chainId": 5,
         "logoURI": "https://ethereum-optimism.github.io/data/WMP/logo.svg",
+        "coingeckoId": null,
+        "listedIn": [
+            "optimism"
+        ]
+    },
+    {
+        "symbol": "frxETH",
+        "name": "Frax Ether",
+        "address": "0x5E8422345238F34275888049021821E8E08CAa1f",
+        "decimals": 18,
+        "chainId": 5,
+        "logoURI": "https://ethereum-optimism.github.io/data/frxETH/logo.svg",
         "coingeckoId": null,
         "listedIn": [
             "optimism"

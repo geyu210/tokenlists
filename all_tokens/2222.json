@@ -72,6 +72,18 @@
         ]
     },
     {
+        "symbol": "BNB",
+        "name": "BNB on Kava",
+        "address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
+        "decimals": 18,
+        "chainId": 2222,
+        "logoURI": "https://elk.finance/tokens/logos/kava/0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
         "symbol": "TIGER",
         "name": "Tiger",
         "address": "0x471F79616569343e8e84a66F342B7B433b958154",
@@ -90,6 +102,18 @@
         "decimals": 18,
         "chainId": 2222,
         "logoURI": "https://elk.finance/tokens/logos/kava/0x38481Fdc1aF61E6E72E0Ff46F069315A59779C65/logo.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "elkfinance"
+        ]
+    },
+    {
+        "symbol": "KPE",
+        "name": "Kperp Exchange",
+        "address": "0x3817e3f374bABcB0CFa5A39EB59d97aDc6812098",
+        "decimals": 18,
+        "chainId": 2222,
+        "logoURI": "https://elk.finance/tokens/logos/kava/0x3817e3f374bABcB0CFa5A39EB59d97aDc6812098/logo.png",
         "coingeckoId": null,
         "listedIn": [
             "elkfinance"

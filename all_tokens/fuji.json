@@ -21,20 +21,7 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "joe",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "DAI",
-        "name": "Dai Stablecoin",
-        "address": "0xFc7215C9498Fc12b22Bc0ed335871Db4315f03d3",
-        "decimals": 18,
-        "chainId": 43113,
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xFc7215C9498Fc12b22Bc0ed335871Db4315f03d3/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "joe"
         ]
     },
     {
@@ -98,18 +85,6 @@
         ]
     },
     {
-        "symbol": "LINK",
-        "name": "ChainLink Token",
-        "address": "0x73b4C0C45bfB90FC44D9013FA213eF2C2d908D0A",
-        "decimals": 18,
-        "chainId": 43113,
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x73b4C0C45bfB90FC44D9013FA213eF2C2d908D0A/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "joe"
-        ]
-    },
-    {
         "symbol": "RIP",
         "name": "The Crypt",
         "address": "0x224695Ba2a98E4a096a519B503336E06D9116E48",
@@ -143,18 +118,6 @@
         "coingeckoId": null,
         "listedIn": [
             "pangolin"
-        ]
-    },
-    {
-        "symbol": "WBTC",
-        "name": "Wrapped BTC",
-        "address": "0x09C85Ef96e93f0ae892561052B48AE9DB29F2458",
-        "decimals": 18,
-        "chainId": 43113,
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x09C85Ef96e93f0ae892561052B48AE9DB29F2458/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "joe"
         ]
     }
 ]

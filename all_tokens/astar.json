@@ -12,6 +12,18 @@
         ]
     },
     {
+        "symbol": "CERES",
+        "name": "Ceres",
+        "address": "0xe69583B62D7B7d8a568E1eC08f34B648589F4cF1",
+        "decimals": 18,
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/17959/thumb/sQLDgqx.png?1648442923",
+        "coingeckoId": "ceres",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "WMATIC",
         "name": "Wrapped Matic",
         "address": "0xdd90E5E87A2081Dcf0391920868eBc2FFB81a1aF",
@@ -46,6 +58,18 @@
         "listedIn": [
             "coingecko",
             "xyfinance"
+        ]
+    },
+    {
+        "symbol": "DEO",
+        "name": "Demeter",
+        "address": "0xb51541df05DE07be38dcfc4a80c05389A54502BB",
+        "decimals": 18,
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/25582/thumb/7zyskNC.png?1652767188",
+        "coingeckoId": "demeter",
+        "listedIn": [
+            "coingecko"
         ]
     },
     {
@@ -99,6 +123,18 @@
         ]
     },
     {
+        "symbol": "NASTR",
+        "name": "Liquid ASTR",
+        "address": "0xE511ED88575C57767BAfb72BfD10775413E3F2b0",
+        "decimals": 18,
+        "chainId": 592,
+        "logoURI": "https://assets.coingecko.com/coins/images/28481/thumb/Rectangle_152.png?1671028263",
+        "coingeckoId": "liquid-astr",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "ARSW",
         "name": "ArthSwap",
         "address": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
@@ -144,18 +180,6 @@
         "chainId": 592,
         "logoURI": "https://assets.coingecko.com/coins/images/20884/thumb/zenlink.PNG?1637824309",
         "coingeckoId": "zenlink-network-token",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
-        "symbol": "STAR",
-        "name": "StarSwap",
-        "address": "0x8489f4554790F5A103F2B0398537eAEe68B73884",
-        "decimals": 18,
-        "chainId": 592,
-        "logoURI": "https://assets.coingecko.com/coins/images/26624/thumb/star-swap.png?1659319183",
-        "coingeckoId": "starswap",
         "listedIn": [
             "coingecko"
         ]

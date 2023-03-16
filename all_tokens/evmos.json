@@ -42,7 +42,7 @@
         "address": "0xd8176865DD0D672c6Ab4A427572f80A72b4B4A9C",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax_share.png?1608478989",
+        "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/ethCanonicalFXS.png?1669276861",
         "coingeckoId": "frax-share",
         "listedIn": [
             "coingecko",
@@ -142,9 +142,10 @@
         "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://mvp.arable.finance/public/assets/tokens/acre_token.png",
-        "coingeckoId": null,
+        "logoURI": "https://assets.coingecko.com/coins/images/23659/thumb/acre_token-02.png?1644989289",
+        "coingeckoId": "arable-protocol",
         "listedIn": [
+            "coingecko",
             "lifinance"
         ]
     },
@@ -154,10 +155,11 @@
         "address": "0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/16724/thumb/osmo.png?1632763885",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0xFA3C22C069B9556A4B2f7EcE1Ee3B467909f4864/logo_24.png",
         "coingeckoId": "osmosis",
         "listedIn": [
             "coingecko",
+            "pangolin",
             "lifinance"
         ]
     },
@@ -204,7 +206,7 @@
         "address": "0xE03494D0033687543a80c9B1ca7D6237F2EA8BD8",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax_logo.png?1608476506",
+        "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/ethCanonicalFRAX.png?1669277108",
         "coingeckoId": "frax",
         "listedIn": [
             "coingecko",
@@ -217,10 +219,11 @@
         "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
         "decimals": 18,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/24023/thumb/evmos.png?1653958927",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0xD4949664cD82660AaE99bEdc034a0deA8A0bd517/logo_24.png",
         "coingeckoId": "evmos",
         "listedIn": [
             "coingecko",
+            "pangolin",
             "lifinance"
         ]
     },
@@ -230,10 +233,11 @@
         "address": "0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/1481/thumb/cosmos_hub.png?1555657960",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6/logo_24.png",
         "coingeckoId": "cosmos",
         "listedIn": [
             "coingecko",
+            "pangolin",
             "lifinance"
         ]
     },
@@ -446,6 +450,18 @@
         ]
     },
     {
+        "symbol": "SPACE",
+        "name": "SpaceFi",
+        "address": "0x4E2D4F33d759976381D9DeE04B197bF52F6bC1FC",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://assets.coingecko.com/coins/images/25643/thumb/SpaceFi.png?1652949206",
+        "coingeckoId": "spacefi",
+        "listedIn": [
+            "coingecko"
+        ]
+    },
+    {
         "symbol": "AURORA",
         "name": "Aurora | Celer cBridge",
         "address": "0x48421FF1c6B93988138130865C4B7Cce10358271",
@@ -472,7 +488,7 @@
     },
     {
         "symbol": "DAI",
-        "name": "Dai Stablecoin",
+        "name": "DAI",
         "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
         "decimals": 18,
         "chainId": 9001,
@@ -501,7 +517,7 @@
         "address": "0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/19249/thumb/juno.png?1642838082",
+        "logoURI": "https://assets.coingecko.com/coins/images/19249/thumb/Juno_Logo_%28Salmon%29_%282%29.png?1676455333",
         "coingeckoId": "juno-network",
         "listedIn": [
             "coingecko",
@@ -533,6 +549,18 @@
         ]
     },
     {
+        "symbol": "stEVMOS",
+        "name": "Stride Staked Evmos",
+        "address": "0x2C68D1d6aB986Ff4640b51e1F14C716a076E44C4",
+        "decimals": 18,
+        "chainId": 9001,
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0x2C68D1d6aB986Ff4640b51e1F14C716a076E44C4/logo_24.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "pangolin"
+        ]
+    },
+    {
         "symbol": "madFRAX",
         "name": "Frax | Nomad",
         "address": "0x28eC4B29657959F4A5052B41079fe32919Ec3Bd3",
@@ -558,27 +586,16 @@
         ]
     },
     {
-        "symbol": "EMO",
-        "name": "EvmoSwap",
-        "address": "0x181C262b973B22C307C646a67f64B76410D19b6B",
-        "decimals": 18,
-        "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/25800/thumb/logox200.png?1653970616",
-        "coingeckoId": "evmoswap",
-        "listedIn": [
-            "coingecko"
-        ]
-    },
-    {
         "symbol": "AXLUSDC",
-        "name": "axlUSDC",
+        "name": "Axelar USDC",
         "address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
         "decimals": 6,
         "chainId": 9001,
-        "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/axlUSDC.png?1658207579",
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9001/0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57/logo_24.png",
         "coingeckoId": "axlusdc",
         "listedIn": [
             "coingecko",
+            "pangolin",
             "lifinance"
         ]
     },

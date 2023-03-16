@@ -26,19 +26,6 @@
         ]
     },
     {
-        "symbol": "CRC",
-        "name": "Care Coin",
-        "address": "z9WZXekbCtwoxyfAwEJn1euXybvqLzPVv3NDzJzkq7C",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/z9WZXekbCtwoxyfAwEJn1euXybvqLzPVv3NDzJzkq7C/logo.png",
-        "coingeckoId": "care-coin",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
         "symbol": "OXY",
         "name": "Oxygen",
         "address": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
@@ -72,20 +59,6 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xxxxa1sKNGwFtw2kFn8XauW9xq8hBZ5kVtcSesTT9fW/logo.png",
         "coingeckoId": "solanium",
-        "listedIn": [
-            "coingecko",
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "SRMET",
-        "name": "Serum  Wormhole from Ethereum ",
-        "address": "xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
-        "coingeckoId": "serum-wormhole-from-ethereum",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -166,8 +139,7 @@
         "coingeckoId": "star-atlas-dao",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -206,8 +178,7 @@
         "coingeckoId": "msol",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -246,8 +217,7 @@
         "coingeckoId": "invictus",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -290,32 +260,6 @@
         ]
     },
     {
-        "symbol": "apUSDC",
-        "name": "Wrapped USDC (Allbridge from Polygon)",
-        "address": "eqKJTf1Do4MDPyKisMYqVaUFpkEFAs3riGF3ceDH2Ca",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "soAAVE",
-        "name": "Wrapped Aave (Sollet)",
-        "address": "dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "CHICKS",
         "name": "SolChicks",
         "address": "cxxShYRVcepDudXhe7U62QHvw8uBJoKFifmzggGKVC2",
@@ -338,8 +282,7 @@
         "coingeckoId": "allbridge",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -402,20 +345,6 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/sol-farm/token-logos/main/tulip.png",
         "coingeckoId": "solfarm",
-        "listedIn": [
-            "coingecko",
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "SB",
-        "name": "SuperBonds",
-        "address": "SuperbZyz7TsSdSoFAZ6RYHfAWe9NmjXBLVQpS8hqdx",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SuperbZyz7TsSdSoFAZ6RYHfAWe9NmjXBLVQpS8hqdx/logo.svg",
-        "coingeckoId": "superbonds",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -496,8 +425,7 @@
         "coingeckoId": "serum",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -796,8 +724,7 @@
         "coingeckoId": "mercurial",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -866,19 +793,6 @@
         ]
     },
     {
-        "symbol": "SOLUST",
-        "name": "solUST",
-        "address": "JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/JAa3gQySiTi8tH3dpkvgztJWHQC1vGXr5m6SQ9LEM55T/solust.svg",
-        "coingeckoId": "solust",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
         "symbol": "MONGOOSE",
         "name": "MongooseCoin",
         "address": "J7WYVzFNynk9D28eBCccw2EYkygygiLDCVCabV7CupWL",
@@ -927,20 +841,6 @@
         "coingeckoId": "honey-finance",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "SUCH",
-        "name": "Such Shiba",
-        "address": "HnZiKrSKYQkEfzjQs6qkvuGbBmrBP9YzjB1SMM7tiGZ1",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HnZiKrSKYQkEfzjQs6qkvuGbBmrBP9YzjB1SMM7tiGZ1/logo.png",
-        "coingeckoId": "such-shiba",
-        "listedIn": [
-            "coingecko",
             "1sol"
         ]
     },
@@ -952,45 +852,6 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/parasol-finance/white-paper/main/logo.png",
         "coingeckoId": "parasol-finance",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "afDAI",
-        "name": "Wrapped DAI (Allbridge from Fantom)",
-        "address": "HjUhUzi6fVkY1BndaSc4Dcg2mCzvnqzXjVJtXsj78ver",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "SNJ",
-        "name": "Sola Ninja",
-        "address": "Hj4sTP4L4rvR9WBR6KyK99sxPptBQQczNWe4y15mxhRD",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/SolaToken/token-list/ninja/assets/mainnet/Hj4sTP4L4rvR9WBR6KyK99sxPptBQQczNWe4y15mxhRD/logo.png",
-        "coingeckoId": "sola-ninja",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "ESOL",
-        "name": "Eversol Staked SOL",
-        "address": "Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Hg35Vd8K3BS2pLB3xwC2WqQV8pmpCm3oNRGYP1PEpmCM/logo.png",
-        "coingeckoId": "eversol-staked-sol",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -1032,8 +893,7 @@
         "coingeckoId": "atlas-dex",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -1044,19 +904,6 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HEhMLvpSdPviukafKwVN8BnBUTamirptsQ6Wxo5Cyv8s/logo.png",
         "coingeckoId": "future",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "KSAMO",
-        "name": "King Samo",
-        "address": "HDiA4quoMibAGeJQzvxajp3Z9cvnkNng99oVrnuNj6px",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HDiA4quoMibAGeJQzvxajp3Z9cvnkNng99oVrnuNj6px/logo.png",
-        "coingeckoId": "king-samo",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -1085,8 +932,7 @@
         "coingeckoId": "starlaunch",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -1207,45 +1053,6 @@
         ]
     },
     {
-        "symbol": "afUSDC",
-        "name": "Wrapped USDC (Allbridge from Fantom)",
-        "address": "Grk6b4UMRWkgyq4Y6S1BnNRF4hRgtnMFp7Sorkv6Ez4u",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "DJN",
-        "name": "Fenix Danjon",
-        "address": "GnzxEyULVPQYb5F5hxGc8dEGivctVrfr5mtsdp4z5xU2",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GnzxEyULVPQYb5F5hxGc8dEGivctVrfr5mtsdp4z5xU2/logo.png",
-        "coingeckoId": "fenix-danjon",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "ahUSDT",
-        "name": "Wrapped USDT (Allbridge from HECO)",
-        "address": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "SOLPAD",
         "name": "Solpad Finance",
         "address": "GfJ3Vq2eSTYf1hJP6kKLE9RT6u7jF9gNszJhZwo5VPZp",
@@ -1311,19 +1118,6 @@
         ]
     },
     {
-        "symbol": "ALTAR",
-        "name": "Altar",
-        "address": "GJQ1iDoPWWo7pXeNKhC9BLD3FHL2tgFEVGMHYGEfQZT",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GJQ1iDoPWWo7pXeNKhC9BLD3FHL2tgFEVGMHYGEfQZT/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "SOLAPE",
         "name": "SOLAPE",
         "address": "GHvFFSZ9BctWsEc5nujR1MTmmJWY7tgQz2AXE6WVFtGN",
@@ -1372,8 +1166,7 @@
         "coingeckoId": "genopets",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -1426,19 +1219,6 @@
         "listedIn": [
             "coingecko",
             "1sol"
-        ]
-    },
-    {
-        "symbol": "aaUSDT",
-        "name": "Wrapped USDT (Allbridge from Avalanche)",
-        "address": "FwEHs3kJEdMa2qZHv7SgzCiFXUQPEycEXksfBkwmS8gj",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
         ]
     },
     {
@@ -1533,32 +1313,6 @@
         ]
     },
     {
-        "symbol": "afBTC",
-        "name": "Wrapped BTC (Allbridge from Fantom)",
-        "address": "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "aaWBTC",
-        "name": "Wrapped BTC (Allbridge from Avalanche)",
-        "address": "Fd8xyHHRjTvxfZrBirb6MaxSmrZYw99gRSqFUKdFwFvw",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "TGT",
         "name": "Twirl Governance",
         "address": "FciGvHj9FjgSGgCBF1b9HY814FM9D28NijDd5SJrKvPo",
@@ -1607,8 +1361,7 @@
         "coingeckoId": "ashera",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -1712,8 +1465,7 @@
         "coingeckoId": "all-art",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -1730,19 +1482,6 @@
         ]
     },
     {
-        "symbol": "abETH",
-        "name": "Wrapped ETH (Allbridge from BSC)",
-        "address": "EyrnrbE5ujd3HQG5PZd9MbECN9yaQrqc8pRwGtaLoyC",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FeGn77dhg1KXRRFeSwwMiykZnZPw5JXW6naf2aQgZDQf/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "ACUSD",
         "name": "Wrapped CUSD  Allbridge from Celo ",
         "address": "EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e",
@@ -1752,8 +1491,7 @@
         "coingeckoId": "wrapped-cusd-allbridge-from-celo",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -1805,8 +1543,7 @@
         "coingeckoId": "tether",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -1833,19 +1570,6 @@
         "listedIn": [
             "coingecko",
             "1sol"
-        ]
-    },
-    {
-        "symbol": "aaDAI",
-        "name": "Wrapped DAI (Allbridge from Avalanche)",
-        "address": "EgQ3yNtVhdHz7g1ZhjfGbxhFKMPPaFkz8QHXM5RBZBgi",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
         ]
     },
     {
@@ -1949,8 +1673,7 @@
         "coingeckoId": "usd-coin",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -1990,32 +1713,6 @@
         "listedIn": [
             "coingecko",
             "1sol"
-        ]
-    },
-    {
-        "symbol": "abUSDT",
-        "name": "Wrapped USDT (Allbridge from BSC)",
-        "address": "E77cpQ4VncGmcAXX16LHFFzNBEBb2U7Ar7LBmZNfCgwL",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "AIR",
-        "name": "Balloonsville AIR",
-        "address": "E6eCEE3KqjRD5UxcBYQTdV8Z535hyaBuFin9Udm6s6bz",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://assets.coingecko.com/coins/images/24853/thumb/9CmgcH6.png?1649134566",
-        "coingeckoId": "balloonsville-air",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -2175,19 +1872,6 @@
         ]
     },
     {
-        "symbol": "aeUSDC",
-        "name": "Wrapped USDC (Allbridge from Ethereum)",
-        "address": "DdFPRnccQqLD4zCHrBqdY95D6hvw6PLWp9DEXj1fLCL9",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "GOATS",
         "name": "GOATS",
         "address": "DVPWKGLFHK73PwgKgTtW28iCZGewQdva2N5HeBLDorVJ",
@@ -2210,21 +1894,7 @@
         "coingeckoId": "wrapped-usdt-allbridge-from-polygon",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "acUSDC",
-        "name": "Wrapped USDC (Allbridge from Celo)",
-        "address": "DHpoYejUDqzByb6HAdaLWF7KZvwUv2vWYDY9cTENNZui",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -2237,8 +1907,7 @@
         "coingeckoId": "defi-land",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -2255,19 +1924,6 @@
         ]
     },
     {
-        "symbol": "THECA",
-        "name": "Theca",
-        "address": "D3cm6WRnyBct3p7vFqyTt2CaynsGPuVQT2zW6WHSTX6q",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D3cm6WRnyBct3p7vFqyTt2CaynsGPuVQT2zW6WHSTX6q/logo.png",
-        "coingeckoId": "theca",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
         "symbol": "NESTA",
         "name": "Nest Arcade",
         "address": "Czt7Fc4dz6BpLh2vKiSYyotNK2uPPDhvbWrrLeD9QxhV",
@@ -2275,19 +1931,6 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Czt7Fc4dz6BpLh2vKiSYyotNK2uPPDhvbWrrLeD9QxhV/logo.png",
         "coingeckoId": "nest-arcade",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "COW",
-        "name": "CashCow",
-        "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
-        "coingeckoId": "cashcow",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -2372,33 +2015,6 @@
         ]
     },
     {
-        "symbol": "AGEUR",
-        "name": "agEUR  Wormhole ",
-        "address": "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1",
-        "decimals": 8,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1/logo.png",
-        "coingeckoId": "ageur-wormhole",
-        "listedIn": [
-            "coingecko",
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "CHUG",
-        "name": "CHUG",
-        "address": "CbDwU8JrTYv3GzU7msni8qtfFkAGpcyFAzuhuGq5SVqp",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://solthirsty.io/images/chug.png",
-        "coingeckoId": "chug-token",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
         "symbol": "USTC",
         "name": "Wrapped USTC",
         "address": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
@@ -2406,19 +2022,6 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm/logo.png",
         "coingeckoId": "wrapped-ust",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "SOLINK",
-        "name": "Wrapped Chainlink  Sollet ",
-        "address": "CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG/logo.png",
-        "coingeckoId": "wrapped-chainlink-sollet",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -2529,19 +2132,6 @@
         ]
     },
     {
-        "symbol": "PAXG",
-        "name": "Paxos Gold  Wormhole ",
-        "address": "C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe",
-        "decimals": 8,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C6oFsE8nXRDThzrMEQ5SxaNFGKoyyfWDDVPw37JKvPTe/logo.png",
-        "coingeckoId": "paxos-gold-wormhole",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
         "symbol": "WMP",
         "name": "Whalemap",
         "address": "BygDd5LURoqztD3xETc99WCxLUbTi6WYSht9XiBgZ4HW",
@@ -2549,19 +2139,6 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/ssi91/crypto/main/logo.svg",
         "coingeckoId": "whalemap",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "PGNT",
-        "name": "Pigeon Sol",
-        "address": "BxHJqGtC629c55swCqWXFGA2rRF1igbbTmh22H8ePUWG",
-        "decimals": 4,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BxHJqGtC629c55swCqWXFGA2rRF1igbbTmh22H8ePUWG/logo.png",
-        "coingeckoId": "pigeon-sol",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -2591,45 +2168,6 @@
         "listedIn": [
             "coingecko",
             "1sol"
-        ]
-    },
-    {
-        "symbol": "ahBTC",
-        "name": "Wrapped BTC (Allbridge from HECO)",
-        "address": "Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Bo4ehCeRcRj2wp5tQpjfCJxYFn4KyRacfDzSa4Aj27tH/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "aeUSDT",
-        "name": "Wrapped USDT (Allbridge from Ethereum)",
-        "address": "Bn113WT6rbdgwrm12UJtnmNqGqZjY4it2WoUQuQopFVn",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "afETH",
-        "name": "Wrapped ETH (Allbridge from Fantom)",
-        "address": "BiryxNvVTABRs3pEE4fvVuu4d17aAYEsNmcPnJ8E8WeT",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FeGn77dhg1KXRRFeSwwMiykZnZPw5JXW6naf2aQgZDQf/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
         ]
     },
     {
@@ -2679,19 +2217,6 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Basis9oJw9j8cw53oMV7iqsgo6ihi9ALw4QR31rcjUJa/logo.png",
         "coingeckoId": "basis-markets",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "SHELL",
-        "name": "MetaShells",
-        "address": "BRg8CLYEStYAFQad3CVMCYy1cgeuvUnarAZLV8K8Hyfv",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://cdn.jsdelivr.net/gh/metashells/main/metashellslogo.png",
-        "coingeckoId": "metashells",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -2750,19 +2275,6 @@
         ]
     },
     {
-        "symbol": "aeFTT",
-        "name": "Wrapped FTT (Allbridge from Ethereum)",
-        "address": "BFsCwfk8VsEbSfLkkgmoKsAPk2N6FMJjeTsuxfGa9VEf",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "NOVA",
         "name": "Nova Finance",
         "address": "BDrL8huis6S5tpmozaAaT5zhE5A7ZBAB2jMMvpKEeF8A",
@@ -2773,19 +2285,6 @@
         "listedIn": [
             "coingecko",
             "1sol"
-        ]
-    },
-    {
-        "symbol": "aeFEI",
-        "name": "Wrapped FEI (Allbridge from Ethereum)",
-        "address": "BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BAexggGFsiLCKr17cSZF12wkHd8BkR1DBhzuSb78WTR2/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
         ]
     },
     {
@@ -2880,32 +2379,6 @@
         ]
     },
     {
-        "symbol": "FIRE",
-        "name": "Solfire Finance",
-        "address": "AfXLBfMZd32pN6QauazHCd7diEWoBgw1GNUALDw3suVZ",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AfXLBfMZd32pN6QauazHCd7diEWoBgw1GNUALDw3suVZ/logo.png",
-        "coingeckoId": "solfire-finance",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "KROOK",
-        "name": "Krook Coin",
-        "address": "AfARcLLqRHsZc4xPWHE9nXZAswZaW294Ff1xcYQbjkLq",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://user-images.githubusercontent.com/1009138/143821720-d9c6f5fd-96d7-424f-9b1f-b185451cbb31.png",
-        "coingeckoId": "krook-coin",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
         "symbol": "SINU",
         "name": "Samo INU",
         "address": "Ac7GiHwC7vZU2y97GRh9rqCqqnKAAgopYrTAtKccHxUk",
@@ -2913,32 +2386,6 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ac7GiHwC7vZU2y97GRh9rqCqqnKAAgopYrTAtKccHxUk/logo.png",
         "coingeckoId": "samo-inu",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "aeWETH",
-        "name": "Wrapped ETH (Allbridge from Ethereum)",
-        "address": "AaAEw2VCw1XzgvKB8Rj2DyK2ZVau9fbt2bE8hZFWsMyE",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FeGn77dhg1KXRRFeSwwMiykZnZPw5JXW6naf2aQgZDQf/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "SBFC",
-        "name": "SBF Coin",
-        "address": "AWW5UQfMBnPsTaaxCK7cSEmkj1kbX2zUrqvgKXStjBKx",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AWW5UQfMBnPsTaaxCK7cSEmkj1kbX2zUrqvgKXStjBKx/logo.png",
-        "coingeckoId": "sbf-coin",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -2967,21 +2414,7 @@
         "coingeckoId": "star-atlas",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "aSOL",
-        "name": "aSOL Aggregate Solana Stake Pool",
-        "address": "ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ASoLXbfe7cd6igh5yiEsU8M7FW64QRxPKkxk7sjAfond/logo.svg",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -2994,21 +2427,7 @@
         "coingeckoId": "apricot",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "ASTRA",
-        "name": "AstraPad",
-        "address": "AMp8Jo18ZjK2tuQGfjKAkkWnVP4NWX5sav4NJH6pXF2D",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://assets.coingecko.com/coins/images/20028/thumb/WzDPqfV.png?1636418940",
-        "coingeckoId": "astrapad",
-        "listedIn": [
-            "coingecko",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -3034,8 +2453,7 @@
         "coingeckoId": "almond",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -3087,22 +2505,7 @@
         "coingeckoId": "realy-metaverse",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "ACM",
-        "name": "Acumen",
-        "address": "ACUMENkbnxQPAsN8XrNA11sY3NmXDNKVCqS82EiDqMYB",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ACUMENkbnxQPAsN8XrNA11sY3NmXDNKVCqS82EiDqMYB/logo3.svg",
-        "coingeckoId": "acumen",
-        "listedIn": [
-            "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -3197,19 +2600,6 @@
         ]
     },
     {
-        "symbol": "$SHIVER",
-        "name": "Shibaverse",
-        "address": "A3iozx9T9wgrtybnecQ9rv56y9RF8ThUrwRGWiF7hsmZ",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/A3iozx9T9wgrtybnecQ9rv56y9RF8ThUrwRGWiF7hsmZ/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "WOOP",
         "name": "WOOP",
         "address": "A3HyGZqe451CBesNqieNPfJ4A9Mu332ui8ni6dobVSLB",
@@ -3246,19 +2636,6 @@
         "listedIn": [
             "coingecko",
             "1sol"
-        ]
-    },
-    {
-        "symbol": "aeDAI",
-        "name": "Wrapped DAI (Allbridge from Ethereum)",
-        "address": "9w6LpS7RU1DKftiwH3NgShtXbkMM1ke9iNU4g3MBXSUs",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
         ]
     },
     {
@@ -3366,32 +2743,6 @@
         ]
     },
     {
-        "symbol": "MOUNT",
-        "name": "MetaMounts",
-        "address": "9QXAu7FTf7hmswBQwKxvuqGgWH42FyQjqXJanUt6y4eC",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://arweave.net/fy9pbbRbYRg-Y40B34ojIGrb3wxpadQgsiktan1LfKY?ext=png",
-        "coingeckoId": "metamounts",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "$FORCE",
-        "name": "Force",
-        "address": "9MjAmgHXbu5drkNa9XpzfozgsM5Dcq6bSnKZzdNrwscC",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9MjAmgHXbu5drkNa9XpzfozgsM5Dcq6bSnKZzdNrwscC/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "AUDIO",
         "name": "Audius  Wormhole ",
         "address": "9LzCMqDgTKYz9Drzqnpgee3SGa89up3a247ypMj2xrqM",
@@ -3470,45 +2821,6 @@
         ]
     },
     {
-        "symbol": "aaUSDC",
-        "name": "Wrapped USDC (Allbridge from Avalanche)",
-        "address": "8Yv9Jz4z7BUHP68dz8E8m3tMe6NKgpMUKn8KVqrPA6Fr",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "abUSDC",
-        "name": "Wrapped USDC (Allbridge from BSC)",
-        "address": "8XSsNvaKU9FDhYWAv7Yc7qSNwuJSzVrXBNEk7AFiWF69",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "42",
-        "name": "42",
-        "address": "8Wmonq7dhFJXuHqFCcVgWTmmUPCBC4C6J5xbB5HhGb6n",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://cdn.jsdelivr.net/gh/fortytwotoken/42token/forty-two.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "YARD",
         "name": "Solyard Finance",
         "address": "8RYSc3rrS4X4bvBCtSJnhcpPpMaAJkXnVKZPzANxQHgz",
@@ -3561,19 +2873,6 @@
         ]
     },
     {
-        "symbol": "BABYTIGER",
-        "name": "BabyTigerGold",
-        "address": "8JjBJdV73zPPmZvkgC91ni8RsbXWTkhpuSdxeZgaw6hD",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8JjBJdV73zPPmZvkgC91ni8RsbXWTkhpuSdxeZgaw6hD/logo.png",
-        "coingeckoId": "babytigergold",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
         "symbol": "COPE",
         "name": "Cope",
         "address": "8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh",
@@ -3600,33 +2899,6 @@
         ]
     },
     {
-        "symbol": "APPLE",
-        "name": "Apple Fruit",
-        "address": "8E5W9PMhnEvdvM2Q9XBLMJW7UsFiieXnRHPj8zhtB23h",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8E5W9PMhnEvdvM2Q9XBLMJW7UsFiieXnRHPj8zhtB23h/logo.png",
-        "coingeckoId": "apple-fruit",
-        "listedIn": [
-            "coingecko",
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "GRLC",
-        "name": "Garlic",
-        "address": "88YqDBWxYhhwPbExF966EdaCYBKP51xVm1oGBcbWzcf2",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/88YqDBWxYhhwPbExF966EdaCYBKP51xVm1oGBcbWzcf2/logo.png",
-        "coingeckoId": "garlic",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
         "symbol": "XUSD",
         "name": "Synthetic USD",
         "address": "83LGLCm7QKpYZbX8q4W2kYWbtt8NJBwbVwEepzkVnJ9y",
@@ -3634,19 +2906,6 @@
         "chainId": -1,
         "logoURI": "https://www.synthetify.io/icons/xusd.svg",
         "coingeckoId": "synthetic-usd",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "VI",
-        "name": "Vybit",
-        "address": "7zBWymxbZt7PVHQzfi3i85frc1YRiQc23K7bh3gos8ZC",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7zBWymxbZt7PVHQzfi3i85frc1YRiQc23K7bh3gos8ZC/logo.png",
-        "coingeckoId": "vybit",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -3688,8 +2947,7 @@
         "coingeckoId": "ethereum-wormhole",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -3726,19 +2984,6 @@
         "chainId": -1,
         "logoURI": "https://github.com/ArthurPaivaT/token-list/blob/main/assets/mainnet/7s6NLX42eURZfpyuKkVLrr9ED9hJE8718cyXFsYKqq5g/logo.png?raw=true",
         "coingeckoId": "gear",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "SOLV",
-        "name": "Solview",
-        "address": "7q3AdgKuMeDRnjaMQs7ppXjaw4HUxjsdyMrrfiSZraiN",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/Solviewapp/solviewlogo/main/icon.png",
-        "coingeckoId": "solview",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -3832,8 +3077,7 @@
         "coingeckoId": "lido-staked-sol",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -3889,19 +3133,6 @@
         ]
     },
     {
-        "symbol": "FOSSIL",
-        "name": "Fossil",
-        "address": "6xcfmgzPgABAuAfGDhvvLLMfMDur4at7tU7j3NudUviK",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6xcfmgzPgABAuAfGDhvvLLMfMDur4at7tU7j3NudUviK/logo.png",
-        "coingeckoId": "fossil",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
         "symbol": "TUT",
         "name": "Turnt Up Tikis",
         "address": "6wShYhqA2gs3HUAZ4MyaPDpKPBWFJUQQUGaCoy2k1Tgz",
@@ -3937,8 +3168,7 @@
         "coingeckoId": "wrapped-busd-allbridge-from-bsc",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -3968,21 +3198,8 @@
         ]
     },
     {
-        "symbol": "KSH",
-        "name": "Keeshond",
-        "address": "6j14WyX1Ag2pLWvn99euK4xp2VcZD62VeJv2iwCrYmT8",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://assets.coingecko.com/coins/images/21353/thumb/lkdYjrVS_400x400.jpg?1638999576",
-        "coingeckoId": "keeshond",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "SHILL",
-        "name": "Project SEED SHILL",
+        "name": "SHILL Token",
         "address": "6cVgJUqo4nmvQpbgrDZwyfd6RwWw5bfnCamS3M9N1fd",
         "decimals": 6,
         "chainId": -1,
@@ -4020,19 +3237,6 @@
         ]
     },
     {
-        "symbol": "MEKKA",
-        "name": "MekkaFroggo",
-        "address": "6YAXGyWb3hhLVQQ3vqg9ZYewXk4Cknnr1raTfDwbf8XG",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6YAXGyWb3hhLVQQ3vqg9ZYewXk4Cknnr1raTfDwbf8XG/logo.png",
-        "coingeckoId": "mekkafroggo",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
         "symbol": "DINO",
         "name": "Dino",
         "address": "6Y7LbYB3tfGBG6CSkyssoxdtHb77AEMTRVXe8JUJRwZ7",
@@ -4053,6 +3257,19 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6XWfkyg5mzGtKNftSDgYjyoPyUsLRf2rafj95XSFSFrr/logo.png",
         "coingeckoId": "kitty-coin-solana",
+        "listedIn": [
+            "coingecko",
+            "1sol"
+        ]
+    },
+    {
+        "symbol": "DINGO",
+        "name": "Dingocoin",
+        "address": "6VYF5jXq6rfq4QRgGMG6co7b1Ev1Lj7KSbHBxfQ9e1L3",
+        "decimals": 8,
+        "chainId": -1,
+        "logoURI": "https://wrap.dingocoin.org/wDingocoin.png",
+        "coingeckoId": "dingocoin",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -4098,19 +3315,6 @@
         ]
     },
     {
-        "symbol": "AINU",
-        "name": "Akamaru Inu",
-        "address": "6H87YFkp5LHyN3KzDXa5r3QYce7WTcwYJi9SqwH3TXkQ",
-        "decimals": 1,
-        "chainId": -1,
-        "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/6H87YFkp5LHyN3KzDXa5r3QYce7WTcwYJi9SqwH3TXkQ/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "RUN",
         "name": "Run",
         "address": "6F9XriABHfWhit6zmMUYAQBSy6XK5VF1cHXuW5LDpRtC",
@@ -4133,21 +3337,7 @@
         "coingeckoId": "arte",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "WOOD",
-        "name": "Mindfolk Wood",
-        "address": "674PmuiDtgKx3uKuJ1B16f9m5L84eFvNwj3xDMvHcbo7",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://assets.coingecko.com/coins/images/22512/thumb/tokenlogo.png?1641966072",
-        "coingeckoId": "mindfolk-wood",
-        "listedIn": [
-            "coingecko",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -4158,32 +3348,6 @@
         "chainId": -1,
         "logoURI": "https://www.protorealitygames.com/images/PRGC_Token.png",
         "coingeckoId": "protoreality-games",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "DSOL",
-        "name": "DecentSol",
-        "address": "5y1YcGVPFy8bEiCJi79kegF9igahmvDe5UrqswFvnpMJ",
-        "decimals": 4,
-        "chainId": -1,
-        "logoURI": "https://gateway.pinata.cloud/ipfs/QmfV1LNrqefadJQ7PzMvrTnio9GzsFLcbwRXAgVQad3ykt/logo.png",
-        "coingeckoId": "decentsol",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "QUID",
-        "name": "Quid",
-        "address": "5xnRrqoyoLBixNwjVet6Xb2ZTyBSXhENyUWj4sqzRGrv",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://cdn.jsdelivr.net/gh/quidtoken/main/quidlogo.png",
-        "coingeckoId": "quid-token",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -4255,19 +3419,6 @@
         ]
     },
     {
-        "symbol": "AAPE",
-        "name": "AAPE",
-        "address": "5kjfp2qfRbqCXTQeUYgHNnTLf13eHoKjC5hHynW9DvQE",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5kjfp2qfRbqCXTQeUYgHNnTLf13eHoKjC5hHynW9DvQE/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "INU",
         "name": "Solana Inu",
         "address": "5jFnsfx36DyGk8uVGrbXnVUMTsBkPXGpx6e69BiGFzko",
@@ -4307,19 +3458,6 @@
         ]
     },
     {
-        "symbol": "ACE",
-        "name": "ACE",
-        "address": "5fhXkD8tXyDB9rmYZSNJ6LneLr2nMteMpCVxeDDEgXa3",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5fhXkD8tXyDB9rmYZSNJ6LneLr2nMteMpCVxeDDEgXa3/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "WHEY",
         "name": "Shredded Apes Whey",
         "address": "5fTwKZP2AK39LtFN9Ayppu6hdCVKfMGVm79F2EgHCtsi",
@@ -4334,7 +3472,7 @@
     },
     {
         "symbol": "CMFI",
-        "name": "Compendium Fi",
+        "name": "Compendium",
         "address": "5Wsd311hY8NXQhkt9cWHwTnqafk7BGEbLu8Py3DSnPAr",
         "decimals": 6,
         "chainId": -1,
@@ -4353,19 +3491,6 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5U9QqCPhqXAJcEv9uyzFJd5zhN93vuPk1aNNkXnUfPnt/logo.png",
         "coingeckoId": "bitspawn",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "BBY",
-        "name": "BabylonDAO",
-        "address": "5SZSVgnQDgKKxtCe3UA3x4T7tcSRNDaL3NmfdEqpuLzo",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5SZSVgnQDgKKxtCe3UA3x4T7tcSRNDaL3NmfdEqpuLzo/logo.jpg",
-        "coingeckoId": "babylondao",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -4394,8 +3519,7 @@
         "coingeckoId": "apyswap",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -4438,19 +3562,6 @@
         ]
     },
     {
-        "symbol": "VOO",
-        "name": "VooVoo",
-        "address": "55t1PfJngPgMS4c4HeSHPy54VWfkMEk7XBQhSkdz6Cm6",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/55t1PfJngPgMS4c4HeSHPy54VWfkMEk7XBQhSkdz6Cm6/logo.png",
-        "coingeckoId": "voovoo",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
         "symbol": "APEX",
         "name": "ApeXit Finance",
         "address": "51tMb3zBKDiQhNwGqpgwbavaGH54mk8fXFzxTc1xnasg",
@@ -4460,8 +3571,7 @@
         "coingeckoId": "apexit-finance",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -4500,8 +3610,7 @@
         "coingeckoId": "raydium",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -4531,19 +3640,6 @@
         ]
     },
     {
-        "symbol": "APEM",
-        "name": "APEMOON",
-        "address": "4ZwWddrPzfgMxyEgQ7kzVrqoqX5D9BQJPwduQUBMmePs",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ZwWddrPzfgMxyEgQ7kzVrqoqX5D9BQJPwduQUBMmePs/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "XSB",
         "name": "Solareum Wallet",
         "address": "4UuGQgkD3rSeoXatXRWwRfRd21G87d5LiCfkVzNNv1Tt",
@@ -4566,8 +3662,7 @@
         "coingeckoId": "1sol-io-wormhole",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -4619,20 +3714,6 @@
         "coingeckoId": "agronomist",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "KLB",
-        "name": "Black Label",
-        "address": "4NPzwMK2gfgQ6rTv8x4EE1ZvKW6MYyYTSrAZCx7zxyaX",
-        "decimals": 0,
-        "chainId": -1,
-        "logoURI": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/assets/mainnet/4NPzwMK2gfgQ6rTv8x4EE1ZvKW6MYyYTSrAZCx7zxyaX/logo.svg",
-        "coingeckoId": "black-label",
-        "listedIn": [
-            "coingecko",
             "1sol"
         ]
     },
@@ -4657,19 +3738,6 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4BzxVoBQzwKoqm1dQc78r42Yby3EzAeZmMiYFdCjeu5Z/logo.png",
         "coingeckoId": "swole-doge",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "PSY",
-        "name": "PSY Coin",
-        "address": "49jpm8SpyTwaGaJfUa4AmU28hmW1HoKuqzXkgykysowU",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/charliebakerr/psy-token/main/psycoinlogo.png",
-        "coingeckoId": "psy-coin",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -4728,33 +3796,6 @@
         ]
     },
     {
-        "symbol": "AAVE",
-        "name": "Aave  Wormhole ",
-        "address": "3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg",
-        "decimals": 8,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3vAs4D1WE6Na4tCgt4BApgFfENbm8WY7q4cSPD1yM4Cg/logo.png",
-        "coingeckoId": "aave-wormhole",
-        "listedIn": [
-            "coingecko",
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "abBTCB",
-        "name": "Wrapped BTC (Allbridge from BSC)",
-        "address": "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/qfnqNqs3nCAHjnyCgLRDbBtq4p2MtHZxw8YjSyYhPoL/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "WAGMI",
         "name": "WAGMI On Solana",
         "address": "3m7A2A8HHdqmiDrjAfaddj7Hxd88FrBHA1KSoqjoELtu",
@@ -4790,8 +3831,7 @@
         "coingeckoId": "only1",
         "listedIn": [
             "coingecko",
-            "1sol",
-            "rubic"
+            "1sol"
         ]
     },
     {
@@ -4802,19 +3842,6 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3KnVxWhoYdc9UwDr5WMVkZp2LpF7gnojg7We7MUd6ixQ/logo.png",
         "coingeckoId": "wolfecoin",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "SOYFI",
-        "name": "Wrapped YFI  Sollet ",
-        "address": "3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB/logo.png",
-        "coingeckoId": "wrapped-yfi-sollet",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -4912,19 +3939,6 @@
         ]
     },
     {
-        "symbol": "LINK",
-        "name": "Chainlink  Wormhole ",
-        "address": "2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX",
-        "decimals": 8,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2wpTofQ8SkACrkZWrZDjXPitYa8AwWgX8AfxdeBRRVLX/logo.png",
-        "coingeckoId": "chainlink-wormhole",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
         "symbol": "SOLAR",
         "name": "Solar",
         "address": "2wmKXX1xsxLfrvjEPrt2UHiqj8Gbzwxvffr9qmNjsw8g",
@@ -4984,19 +3998,6 @@
         "chainId": -1,
         "logoURI": "https://arweave.net/Xz7ErS3TZYmBnoh3OPkIQM_O6TPotyEJb6H5WFOe_qc",
         "coingeckoId": "vivaion",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "MSI",
-        "name": "Matrix Solana Index",
-        "address": "2e7yNwrmTgXp9ABUmcPXvFJTSrEVLj4YMyrb4GUM4Pdd",
-        "decimals": 6,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2e7yNwrmTgXp9ABUmcPXvFJTSrEVLj4YMyrb4GUM4Pdd/logo.png",
-        "coingeckoId": "matrix-solana-index",
         "listedIn": [
             "coingecko",
             "1sol"
@@ -5075,72 +4076,6 @@
         "chainId": -1,
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
         "coingeckoId": "wrapped-ethereum-sollet",
-        "listedIn": [
-            "coingecko",
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "VITAL",
-        "name": "Vitall Markets",
-        "address": "2FKuYE5D75e9Fjg3ymGBrFfVc8tVKac4SeyvZn5dGNUz",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FKuYE5D75e9Fjg3ymGBrFfVc8tVKac4SeyvZn5dGNUz/logo.png",
-        "coingeckoId": "vitall-markets",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "BAB",
-        "name": "Banana Bucks",
-        "address": "2Dzzc14S1D7cEFGJyMZMACuoQRHVUYFhVE74C5o8Fwau",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Dzzc14S1D7cEFGJyMZMACuoQRHVUYFhVE74C5o8Fwau/logo.svg",
-        "coingeckoId": "banana-bucks",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "aeMIM",
-        "name": "Wrapped MIM (Allbridge from Ethereum)",
-        "address": "2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2ASbApnFVSTp2RJvMLgLVfbDwJvu1FRXdhJWrGs89Lhj/logo.png",
-        "coingeckoId": null,
-        "listedIn": [
-            "1sol",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "SHIBT",
-        "name": "Shiba Light",
-        "address": "2946ofy854iifvXCQmHX2AJgxRBoQcchy1gfD26RtkHp",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2946ofy854iifvXCQmHX2AJgxRBoQcchy1gfD26RtkHp/logo.png",
-        "coingeckoId": "shiba-light",
-        "listedIn": [
-            "coingecko",
-            "1sol"
-        ]
-    },
-    {
-        "symbol": "XVC",
-        "name": "Xverse",
-        "address": "25Vu6457o2gdZRGVVt5K8NbAvaP3esYaQNHbNDitVtw1",
-        "decimals": 9,
-        "chainId": -1,
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/25Vu6457o2gdZRGVVt5K8NbAvaP3esYaQNHbNDitVtw1/logo.png",
-        "coingeckoId": "xverse",
         "listedIn": [
             "coingecko",
             "1sol"

@@ -1,18 +1,5 @@
 [
     {
-        "symbol": "REALT-S-14882-TROES",
-        "name": "RealT   14882 Troester St  Detroit  MI ",
-        "address": "0xff1B4D71Ae12538d86777A954b136cF723fCcEFD",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16600/thumb/14882-Troester-hero-1.jpg?1624542180",
-        "coingeckoId": "14882-troester",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "TRIB",
         "name": "Contribute on xDai",
         "address": "0xff0Ce179a303F26017019acf78B951cB743B8D9b",
@@ -62,7 +49,6 @@
         "listedIn": [
             "coingecko",
             "sushiswap",
-            "rubic",
             "lifinance"
         ]
     },
@@ -90,33 +76,6 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "ETHIX",
-        "name": "EthicHub",
-        "address": "0xec3f3e6d7907acDa3A7431abD230196CDA3FbB19",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/3031/thumb/ETHIX_icon_256x256-256.png?1622195164",
-        "coingeckoId": "ethichub",
-        "listedIn": [
-            "coingecko",
-            "rubic",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-4680-BUCKIN",
-        "name": "RealT   4680 Buckingham Ave  Detroit  M",
-        "address": "0xeFe82D6baF0dB71f92889eB9d00721bD49121316",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16629/thumb/4680-Buckingham-hero-1.jpeg?1624553513",
-        "coingeckoId": "4680-buckingham",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -160,7 +119,6 @@
             "1inch",
             "sushiswap",
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -171,11 +129,11 @@
         "address": "0xe887DC4fcb5240c0c080AEAb8870421d3ebd0B28",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16677/thumb/14066-Santa-Rosa-hero-1.5.jpg?1624629250",
+        "logoURI": "https://tokens.1inch.io/0xe887dc4fcb5240c0c080aeab8870421d3ebd0b28.png",
         "coingeckoId": "14066-santa-rosa",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "1inch"
         ]
     },
     {
@@ -214,7 +172,6 @@
         "coingeckoId": "badger-dao",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -243,7 +200,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -257,7 +213,6 @@
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xdbcadE285846131a5e7384685EADDBDFD9625557/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -277,41 +232,16 @@
     },
     {
         "symbol": "BZZ",
-        "name": "BZZ from Ethereum",
+        "name": "Swarm",
         "address": "0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da",
         "decimals": 16,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xdBF3Ea6F5beE45c02255B2c26a16F300502F68da/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "swarm-bzz",
         "listedIn": [
+            "coingecko",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-15350-GREYD",
-        "name": "RealT   15350 Greydale St  Detroit  MI ",
-        "address": "0xdA47bD33e8f5d17Bb81b8752784bfb46C1c44B2A",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16564/thumb/15350-Greydale-hero-1.jpg?1624460101",
-        "coingeckoId": "15350-greydale",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-4061-GRAND-",
-        "name": "RealT   4061 Grand St  Detroit  MI 4823",
-        "address": "0xd9e89bFebAe447B42C1Fa85C590716eC8820f737",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16616/thumb/4061-Grand-hero-1.jpeg?1624551866",
-        "coingeckoId": "4061-grand",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -354,19 +284,6 @@
         ]
     },
     {
-        "symbol": "REALT-S-272-NE-42ND",
-        "name": "RealT   272 N E  42nd Court  Deerfield ",
-        "address": "0xce111a198eB04F388AceB78c40ceD6daF1b0514a",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16635/thumb/272-Court-1.jpeg?1624556789",
-        "coingeckoId": "272-n-e-42nd-court",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "AUT",
         "name": "Autopia Token on xDai",
         "address": "0xcaE40062a887581A3d1661d0AC2b481c32e3E938",
@@ -406,6 +323,20 @@
         ]
     },
     {
+        "symbol": "EURE",
+        "name": "Monerium EUR emoney",
+        "address": "0xcB444e90D8198415266c6a2724b7900fb12FC56E",
+        "decimals": 18,
+        "chainId": 100,
+        "logoURI": "https://tokens.1inch.io/0xcb444e90d8198415266c6a2724b7900fb12fc56e.png",
+        "coingeckoId": "monerium-eur-money",
+        "listedIn": [
+            "coingecko",
+            "1inch",
+            "lifinance"
+        ]
+    },
+    {
         "symbol": "AFI",
         "name": "AriesFinancial on xDai",
         "address": "0xc81c785653D97766b995D867CF91F56367742eAC",
@@ -415,7 +346,6 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -496,7 +426,6 @@
         "coingeckoId": "yearn-finance",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -511,7 +440,6 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -552,22 +480,8 @@
         "coingeckoId": "dxdao",
         "listedIn": [
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-11078-WAYBU",
-        "name": "RealT   11078 Wayburn St  Detroit  MI 4",
-        "address": "0xb8403b7730368942a5BFe5aaC04a31B44015b1cc",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16596/thumb/11078-Wayburn-hero-1.jpg?1624541135",
-        "coingeckoId": "11078-wayburn",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -583,27 +497,13 @@
             "1inch",
             "sushiswap",
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
     },
     {
-        "symbol": "REALT-S-12866-LAUDE",
-        "name": "RealT   12866 Lauder St  Detroit  MI 48",
-        "address": "0xb5DD2b6E0A0422e069E1D2CC3Ed16533488a05e3",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16565/thumb/12866-Lauder-hero-1.jpg?1624460677",
-        "coingeckoId": "12866-lauder",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "BOND",
-        "name": "BarnBridge",
+        "name": "BarnBridge Governance Token on xDai",
         "address": "0xb31a2595E4Cf66EfBC1Fe348b1429E5730891382",
         "decimals": 18,
         "chainId": 100,
@@ -625,35 +525,8 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-14229-WILSH",
-        "name": "RealT   14229 Wilshire Dr  Detroit  MI ",
-        "address": "0xb09850e2B93aa3AAa1476bF0c007cfc960E2de79",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16604/thumb/14229-Wilshire-hero-1.jpg?1624543967",
-        "coingeckoId": "14229-wilshire",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-18983-ALCOY",
-        "name": "RealT   18983 Alcoy Ave  Detroit  MI 48",
-        "address": "0xaD91999F534F4075B00bA4231C018e57bdeBb342",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16619/thumb/18983-Alcoy-hero-1.jpg?1624550570",
-        "coingeckoId": "18983-alcoy",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -683,80 +556,14 @@
         ]
     },
     {
-        "symbol": "BTCBR",
-        "name": "Bitcoin BR",
-        "address": "0xa899e4476FF5dA39Dcd9DDEC7a6e2C651d8614Bf",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/21205/thumb/btcbr.png?1661666691",
-        "coingeckoId": "bitcoin-br",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-9166-DEVONS",
-        "name": "RealT   9166 Devonshire Rd  Detroit MI ",
-        "address": "0xa69D7d4DdF397f3D1E7EbAf108555d1107b3B117",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16690/thumb/Devonshire-3x.jpeg?1624636640",
-        "coingeckoId": "9166-devonshire",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-9920-BISHOP",
-        "name": "RealT   9920 Bishop St  Detroit  MI 482",
-        "address": "0xa2b2ae397492C7ed8A4c1e751aC72D2b59947E6b",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16615/thumb/9920-Bishop-hero-1.jpg?1624549554",
-        "coingeckoId": "9920-bishop",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-5601-SWOOD-",
-        "name": "RealT   5601 S Wood St  Chicago  IL 606",
-        "address": "0xa137D82197Ea4cdfd5f008A91Ba816b8324F59E1",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16605/thumb/5601-S-Wood-hero-1.jpg?1624544382",
-        "coingeckoId": "5601-s-wood",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-15777-ARDMO",
-        "name": "RealT   15777 Ardmore St  Detroit  MI 4",
-        "address": "0xFe17C3C0B6F38cF3bD8bA872bEE7a18Ab16b43fB",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16542/thumb/15777-Ardmore-hero-2.jpg?1624371814",
-        "coingeckoId": "15777-ardmore",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "DAI",
-        "name": "Dai Token on xDai",
+        "symbol": "bDAI",
+        "name": "Dai Token from BSC",
         "address": "0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -771,7 +578,6 @@
         "coingeckoId": "dehive",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance"
         ]
     },
@@ -807,50 +613,11 @@
         "address": "0xF4657AB08681214Bcb1893aa8E9C7613459250ec",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16675/thumb/1617-S-Avers-hero-1.jpg?1624628860",
+        "logoURI": "https://tokens.1inch.io/0xf4657ab08681214bcb1893aa8e9c7613459250ec.png",
         "coingeckoId": "1617-s-avers",
         "listedIn": [
             "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-25097-ANDOV",
-        "name": "RealT   25097 Andover Dr  Dearborn Heig",
-        "address": "0xF18CfFB528eca0ea31D1d6b28BC80d2eca34D14D",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16698/thumb/Andover-25097.jpeg?1624641026",
-        "coingeckoId": "25097-andover",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-20200-LESUR",
-        "name": "RealT   20200 Lesure St  Detroit  MI 48",
-        "address": "0xEeDc2F5F4D1226759B1AcF9EfA23a99661De6663",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16702/thumb/20200-Lesure-003.jpeg?1624643190",
-        "coingeckoId": "20200-lesure",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-12334-LANSD",
-        "name": "RealT   12334 Lansdowne Street  Detroit",
-        "address": "0xEe2f2212a64Ec3f6BC0F7580e10c53CB38B57508",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16692/thumb/Landsdowne-hero.jpeg?1624638212",
-        "coingeckoId": "12334-lansdowne",
-        "listedIn": [
-            "coingecko",
-            "rubic"
+            "1inch"
         ]
     },
     {
@@ -924,11 +691,11 @@
         "address": "0xE7B6dE709fFC3BD237c2f2c800E1002F97A760F3",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16670/thumb/Cortez-facade-1.jpg?1624627398",
+        "logoURI": "https://tokens.1inch.io/0xe7b6de709ffc3bd237c2f2c800e1002f97a760f3.png",
         "coingeckoId": "4852-4854-w-cortez",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "1inch"
         ]
     },
     {
@@ -957,22 +724,8 @@
             "1inch",
             "sushiswap",
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-402-SKOSTNE",
-        "name": "RealT   402 S Kostner Ave  Chicago  IL ",
-        "address": "0xE255cAF8893382465368b8e1cd4Ef8436ACf0ADE",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16627/thumb/402-S-Kostner-hero-1.jpg?1624553033",
-        "coingeckoId": "402-s-kostner",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -994,11 +747,11 @@
         "address": "0xDd833D0eEF6d5d7Cec781b03c19f3B425F3039Df",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16672/thumb/11957-Olga-hero-1.jpg?1624628071",
+        "logoURI": "https://tokens.1inch.io/0xdd833d0eef6d5d7cec781b03c19f3b425f3039df.png",
         "coingeckoId": "11957-olga",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "1inch"
         ]
     },
     {
@@ -1012,7 +765,6 @@
         "listedIn": [
             "sushiswap",
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -1030,48 +782,19 @@
             "1inch",
             "sushiswap",
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
     },
     {
-        "symbol": "REALT-S-10629-MCKIN",
-        "name": "RealT   10629 McKinney St  Detroit  MI ",
-        "address": "0xD5d1adf54Fbf73a00b197DdCfDAD7cc27D93002f",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16611/thumb/10629-McKinney-hero-1.jpg?1624545790",
-        "coingeckoId": "10629-mckinney",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-11078-LONGV",
-        "name": "RealT   11078 Longview St  Detroit  MI ",
-        "address": "0xD5Fc0C4C4C5ff316e1E91494d963Ff1D52Ba25fF",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16630/thumb/11078-Longview-hero-2.5.jpg?1624553559",
-        "coingeckoId": "11078-longview",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "AMIS",
-        "name": "AMIS",
+        "name": "AMIS on xDai",
         "address": "0xD51e1ddD116fFF9A71C1B8FEEb58113aFa2B4d93",
         "decimals": 9,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xD51e1ddD116fFF9A71C1B8FEEb58113aFa2B4d93/logo.png",
-        "coingeckoId": "amis",
+        "coingeckoId": null,
         "listedIn": [
-            "coingecko",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -1088,7 +811,6 @@
             "coingecko",
             "1inch",
             "sushiswap",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -1103,7 +825,6 @@
         "coingeckoId": "esportsref",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -1122,43 +843,16 @@
         ]
     },
     {
-        "symbol": "REALT-S-10612-SOMER",
-        "name": "RealT   10612 Somerset Ave  Detroit  MI",
-        "address": "0xD1c15CEbfDcd16F00D91666bf64C8b66CbF5e9b5",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16680/thumb/Somerset-3.jpeg?1624630432",
-        "coingeckoId": "10612-somerset",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "USDC",
-        "name": "USD Coin on xDai",
+        "symbol": "BUSDC",
+        "name": "USD Coin on xDai binance-peg",
         "address": "0xD10Cc63531a514BBa7789682E487Add1f15A51E2",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xD10Cc63531a514BBa7789682E487Add1f15A51E2/logo.png",
         "coingeckoId": null,
         "listedIn": [
-            "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-6923-GREENV",
-        "name": "RealT   6923 Greenview Ave  Detroit  MI",
-        "address": "0xD08d2b199E9E5df407427d4085877d1fDFf3b1d6",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16676/thumb/6923-Greenview.jpeg?1624629085",
-        "coingeckoId": "6923-greenview",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -1170,14 +864,13 @@
         "logoURI": "https://elk.finance/tokens/logos/xdai/0xD057604A14982FE8D88c5fC25Aac3267eA142a08/logo.png",
         "coingeckoId": "hopr",
         "listedIn": [
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
     },
     {
         "symbol": "WBNB",
-        "name": "Wrapped BNB on xDai",
+        "name": "Wrapped BNB",
         "address": "0xCa8d20f3e0144a72C6B5d576e9Bd3Fd8557E2B04",
         "decimals": 18,
         "chainId": 100,
@@ -1238,7 +931,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -1254,7 +946,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -1286,19 +977,6 @@
         ]
     },
     {
-        "symbol": "REALT-S-18776-SUNDE",
-        "name": "RealT   18776 Sunderland Rd  Detroit  M",
-        "address": "0xBA07997F594A52DF179620284B52B50A4E66227D",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16602/thumb/18776-Sunderland-hero-1.jpg?1624543588",
-        "coingeckoId": "18776-sunderland",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "TUSD",
         "name": "TrueUSD on xDai",
         "address": "0xB714654e905eDad1CA1940b7790A8239ece5A9ff",
@@ -1322,7 +1000,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -1338,19 +1015,6 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-15796-HARTW",
-        "name": "RealT   15796 Hartwell St  Detroit  MI ",
-        "address": "0xB3D3C1bBcEf737204AADb4fA6D90e974bc262197",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16607/thumb/15796-Hartwell-hero-1.jpeg?1624545151",
-        "coingeckoId": "15796-hartwell",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -1389,35 +1053,8 @@
         "coingeckoId": "ether-1",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-15860-HARTW",
-        "name": "RealT   15860 Hartwell St  Detroit  MI ",
-        "address": "0xA9F30C907321718e655B74463CA665B690B78894",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16595/thumb/15860-Hartwell-hero-1.jpg?1624540454",
-        "coingeckoId": "15860-hartwell",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "sGNO",
-        "name": "StakeWise Staked GNO",
-        "address": "0xA4eF9Da5BA71Cc0D2e5E877a910A37eC43420445",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://api.rubic.exchange/assets/xdai/0xa4ef9da5ba71cc0d2e5e877a910a37ec43420445/logo.png",
-        "coingeckoId": "stakewise-staked-gno",
-        "listedIn": [
-            "rubic",
-            "lifinance"
         ]
     },
     {
@@ -1431,19 +1068,6 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-581-587-JEF",
-        "name": "RealT   581 587 Jefferson Ave  Rocheste",
-        "address": "0xA29ae272bC89e5f315B2793925f700045F845d82",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16637/thumb/571-jefferson-corner-1.1.jpg?1624557964",
-        "coingeckoId": "581-587-jefferson",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -1469,7 +1093,7 @@
         "coingeckoId": "jarvis-synthetic-euro",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -1486,19 +1110,6 @@
         ]
     },
     {
-        "symbol": "REALT-S-11300-ROXBU",
-        "name": "RealT   11300 Roxbury St  Detroit  MI 4",
-        "address": "0x9b5B4886033B4ABc5Eb0552ffF7c15A67C3c47C7",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16610/thumb/11300-Roxbury-hero-1.jpg?1624545386",
-        "coingeckoId": "11300-roxbury",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "BNT",
         "name": "Bancor Network Token on xDai",
         "address": "0x9a495a281D959192343B0e007284bf130bd05F86",
@@ -1512,55 +1123,16 @@
         ]
     },
     {
-        "symbol": "REALT-S-15095-HARTW",
-        "name": "RealT  15095 Hartwell St  Detroit  MI 4",
-        "address": "0x9FEF44FC4C571010BCCD5b63e1Cdc807D3b347bF",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16664/thumb/15095-Hartwell-hero-1.jpeg?1624625590",
-        "coingeckoId": "15095-hartwell",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-13114-GLENF",
-        "name": "RealT   13114 Glenfield Ave  Detroit  M",
-        "address": "0x9F923653A19537b5a1b003854A1920fe67a8ffEB",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16678/thumb/13114-Glenfield-Ave.jpeg?1624629523",
-        "coingeckoId": "13114-glenfield",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-18900-MANSF",
-        "name": "RealT   18900 Mansfield St  Detroit  MI",
-        "address": "0x9Eb90Ec3FAafC22092C9b91559FdDde538042093",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16697/thumb/18900-Mansfield-flowers.jpeg?1624640555",
-        "coingeckoId": "18900-mansfield",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "REALT-S-12405-SANTA",
         "name": "RealT   12405 Santa Rosa Dr  Detroit  M",
         "address": "0x9D918eE39a356bE8eF99734599c7e70160dB4Db6",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16671/thumb/12405-Santa-Rosa-hero-1.jpg?1624627801",
+        "logoURI": "https://tokens.1inch.io/0x9d918ee39a356be8ef99734599c7e70160db4db6.png",
         "coingeckoId": "12405-santa-rosa",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "1inch"
         ]
     },
     {
@@ -1576,7 +1148,6 @@
             "1inch",
             "sushiswap",
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -1591,7 +1162,6 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -1610,19 +1180,6 @@
         ]
     },
     {
-        "symbol": "REALT-S-18273-MONTE",
-        "name": "RealT   18273 Monte Vista St  Detroit  ",
-        "address": "0x9856C5CA15A4Ac9C65AAC090c38a9f39EB3b5eeC",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16665/thumb/18273-Monte-Vista-hero-1b.jpeg?1624626435",
-        "coingeckoId": "18273-monte-vista",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "PAN",
         "name": "Panvala Pan",
         "address": "0x981fB9BA94078a2275A8fc906898ea107B9462A8",
@@ -1633,7 +1190,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -1649,7 +1205,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance"
         ]
     },
@@ -1667,68 +1222,16 @@
         ]
     },
     {
-        "symbol": "REALT-S-4380-BEACON",
-        "name": "RealT   4380 Beaconsfield St  Detroit  ",
-        "address": "0x96700Ffae33c651bC329c3f3fbFE56e1f291f117",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16603/thumb/4380-Beaconsfield-hero-1.jpeg?1624543909",
-        "coingeckoId": "4380-beaconsfield",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-14231-STRAT",
-        "name": "RealT   14231 Strathmoor St  Detroit  M",
-        "address": "0x9528a7402C0Fe85B817aa6E106EAFa03A02924c4",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16563/thumb/14231-Strathmoor-hero-1.jpg?1624459471",
-        "coingeckoId": "14231-strathmoor",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-1244-SAVERS",
-        "name": "RealT   1244 S  Avers St  Chicago  IL 6",
-        "address": "0x94Fa7F8cb8453AD57cd133363b3012044647078C",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16634/thumb/1244-S-Avers-hero-3.jpeg?1624555551",
-        "coingeckoId": "1244-s-avers",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-10084-GRAYT",
-        "name": "RealT   10084 Grayton St  Detroit  MI 4",
-        "address": "0x92161385C9dE8798ad5fB01c0bE99fFcbC84dFD8",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16693/thumb/Grayton_84_side1x.jpeg?1624638633",
-        "coingeckoId": "10084-grayton",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "REALT-S-1815-SAVERS",
         "name": "RealT   1815 S Avers Ave  Chicago  IL 6",
         "address": "0x8fcB39A25e639C8fbD28E8a018227D6570E02352",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16674/thumb/1815-S-Avers-hero-1.5.jpg?1624628519",
+        "logoURI": "https://tokens.1inch.io/0x8fcb39a25e639c8fbd28e8a018227d6570e02352.png",
         "coingeckoId": "1815-s-avers",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "1inch"
         ]
     },
     {
@@ -1757,7 +1260,6 @@
             "1inch",
             "sushiswap",
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -1773,22 +1275,8 @@
         "listedIn": [
             "coingecko",
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "COVAL",
-        "name": "Circuits of Value",
-        "address": "0x8b8407c6184f1f0Fd1082e83d6A3b8349cAcEd12",
-        "decimals": 8,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/588/thumb/coval-logo.png?1599493950",
-        "coingeckoId": "circuits-of-value",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -1806,7 +1294,7 @@
     },
     {
         "symbol": "DUCK",
-        "name": "Unit Protocol",
+        "name": "Unit Protocol on xDai",
         "address": "0x8E7aB03cA7D17996b097D5866bFAA1e251c35c6a",
         "decimals": 18,
         "chainId": 100,
@@ -1815,19 +1303,6 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-15753-HARTW",
-        "name": "RealT   15753 Hartwell St  Detroit  MI ",
-        "address": "0x8D1090dF790FFAFdACCda03015c05dF3b4cC9c21",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16623/thumb/15753-Hartwell-hero-2.jpg?1624551749",
-        "coingeckoId": "15753-hartwell",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -1857,19 +1332,6 @@
         ]
     },
     {
-        "symbol": "REALT-S-10604-SOMER",
-        "name": "RealT   10604 Somerset Ave  Detroit  MI",
-        "address": "0x8626B38267e4FC0D8C92E0bB86F97Acab3f6AA05",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16682/thumb/10604-Somerset-hero-1.jpeg?1624632454",
-        "coingeckoId": "10604-somerset",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "TRADE",
         "name": "UniTrade on xDai",
         "address": "0x860182180e146300dF38aab8d328C6E80BEC9547",
@@ -1883,19 +1345,6 @@
         ]
     },
     {
-        "symbol": "SWASH",
-        "name": "Swash",
-        "address": "0x84E2C67CBEfae6B5148fcA7d02B341B12ff4b5Bb",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/18774/thumb/swash.png?1634089759",
-        "coingeckoId": "swash",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "BRIGHT",
         "name": "BrightID",
         "address": "0x83FF60E2f93F8eDD0637Ef669C69D5Fb4f64cA8E",
@@ -1906,7 +1355,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -1925,19 +1373,6 @@
         ]
     },
     {
-        "symbol": "REALT-S-19201-WESTP",
-        "name": "RealT   19201 Westphalia St  Detroit  M",
-        "address": "0x830B0e9a5ecf36D0A886D21e1C20043cD2d16515",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16613/thumb/19201-Westphalia-hero-1.jpeg?1624547689",
-        "coingeckoId": "19201-westphalia",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "BAO",
         "name": "BaoToken on xDai",
         "address": "0x82dFe19164729949fD66Da1a37BC70dD6c4746ce",
@@ -1948,7 +1383,6 @@
         "listedIn": [
             "1inch",
             "sushiswap",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -1963,33 +1397,34 @@
         "coingeckoId": null,
         "listedIn": [
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
     },
     {
         "symbol": "PERP",
-        "name": "Perpetual on xDai",
+        "name": "Perpetual Protocol",
         "address": "0x7ecF26cd9A36990b8ea477853663092333f59979",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x7ecF26cd9A36990b8ea477853663092333f59979/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "perpetual-protocol",
         "listedIn": [
+            "coingecko",
             "lifinance",
             "elkfinance"
         ]
     },
     {
         "symbol": "BAL",
-        "name": "Balancer on xDai",
+        "name": "Balancer",
         "address": "0x7eF541E2a22058048904fE5744f9c7E4C57AF717",
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x7eF541E2a22058048904fE5744f9c7E4C57AF717/logo.png",
-        "coingeckoId": null,
+        "coingeckoId": "balancer",
         "listedIn": [
+            "coingecko",
             "lifinance",
             "elkfinance"
         ]
@@ -2018,19 +1453,6 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-15039-WARD-",
-        "name": "RealT   15039 Ward Ave  Detroit  MI 482",
-        "address": "0x7E95b310724334FF74537dc08bfD3377d25E65Ce",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16632/thumb/15039-Ward-hero-1.jpeg?1624554456",
-        "coingeckoId": "15039-ward",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -2125,19 +1547,6 @@
         ]
     },
     {
-        "symbol": "REALT-S-18481-WESTP",
-        "name": "RealT   18481 Westphalia St  Detroit  M",
-        "address": "0x75f06B482adbFb04b877D8ee683E2FCDf18AD153",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16633/thumb/18481-Westphalia-hero-1.jpeg?1624554981",
-        "coingeckoId": "18481-westphalia",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "FTX",
         "name": "FTT on xDai",
         "address": "0x75886F00c1a20Ec1511111Fb4Ec3C51de65B1fe7",
@@ -2201,7 +1610,6 @@
             "coingecko",
             "1inch",
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -2216,7 +1624,6 @@
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -2245,7 +1652,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -2277,46 +1683,6 @@
         ]
     },
     {
-        "symbol": "RGNO",
-        "name": "StakeWise Reward GNO",
-        "address": "0x6aC78efae880282396a335CA2F79863A1e6831D4",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": null,
-        "coingeckoId": "stakewise-reward-gno",
-        "listedIn": [
-            "coingecko",
-            "rubic",
-            "lifinance"
-        ]
-    },
-    {
-        "symbol": "GTON",
-        "name": "GTON CAPITAL",
-        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/15728/thumb/GC_logo_200x200.png?1642669327",
-        "coingeckoId": "gton-capital",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-13895-SARAT",
-        "name": "RealT   13895 Saratoga St  Detroit  MI ",
-        "address": "0x6F442Da588232DC57Bf0096E8dE48D6961D5CC83",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16599/thumb/13895-Saratoga-hero-1.jpeg?1624541955",
-        "coingeckoId": "realtoken-s-13895-saratoga-st-detroit-mi",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "ANTv2",
         "name": "Aragon Network Token on xDai v2",
         "address": "0x6EECeab954EFDBd7A8a8D9387bC719959B04b9CA",
@@ -2327,19 +1693,6 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-5942-AUDUBO",
-        "name": "RealT   5942 Audubon Rd  Detroit  MI 48",
-        "address": "0x6Db6d540F5614e6BaB7475Af3F430F46a0B083e2",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16699/thumb/5942-Audubon-HERO-2.jpeg?1624641512",
-        "coingeckoId": "5942-audubon",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -2365,7 +1718,6 @@
         "coingeckoId": "energy-web-token",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -2383,7 +1735,6 @@
             "1inch",
             "sushiswap",
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -2403,7 +1754,7 @@
     },
     {
         "symbol": "CFXQ",
-        "name": "CFX Quantum on xDai",
+        "name": "CFX Quantum from Ethereum",
         "address": "0x64b17a95e6C45306FB23Bc526eB2dc9E1331a1b1",
         "decimals": 6,
         "chainId": 100,
@@ -2425,7 +1776,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -2497,7 +1847,7 @@
     },
     {
         "symbol": "TEC",
-        "name": "Engineering Commons",
+        "name": "Token Engineering Commons",
         "address": "0x5dF8339c5E282ee48c0c7cE8A7d01a73D38B3B27",
         "decimals": 18,
         "chainId": 100,
@@ -2505,7 +1855,6 @@
         "coingeckoId": "token-engineering-commons",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance"
         ]
     },
@@ -2546,19 +1895,6 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-11201-COLLE",
-        "name": "RealT   11201 College St  Detroit  MI 4",
-        "address": "0x5E2a09064B2DCa8c44aaD8A5b69a69Bb1854fE72",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16594/thumb/11201-College-hero-1.jpg?1624540102",
-        "coingeckoId": "11201-college",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -2610,22 +1946,8 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-13045-WADE-",
-        "name": "RealT   13045 Wade St  Detroit  MI 4821",
-        "address": "0x5600e25b4f24c63Afa655C3bd96E3C178B654Fa1",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16617/thumb/13045-Wade-hero-1.jpg?1624549855",
-        "coingeckoId": "13045-wade",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -2651,7 +1973,6 @@
         "coingeckoId": "swapr",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance"
         ]
     },
@@ -2666,7 +1987,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -2694,7 +2014,6 @@
         "coingeckoId": "degenerator",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -2710,22 +2029,8 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-15373-PARKS",
-        "name": "RealT   15373 Parkside St  Detroit  MI ",
-        "address": "0x4d0dA4E75d40Bd7D9C4f7A292BF883BcDf38c45D",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16562/thumb/15373-Parkside-hero-1.jpg?1624458568",
-        "coingeckoId": "15373-parkside",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -2767,7 +2072,6 @@
             "1inch",
             "sushiswap",
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -2799,19 +2103,6 @@
         ]
     },
     {
-        "symbol": "REALT-S-17813-BRADF",
-        "name": "RealT   17813 Bradford St  Detroit  MI ",
-        "address": "0x499A6c19F5537dd6005E2B5c6E1263103f558Ba4",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16606/thumb/17813-Bradford-hero-1.jpeg?1624544519",
-        "coingeckoId": "17813-bradford",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "DIP",
         "name": "Etherisc DIP",
         "address": "0x48b1B0d077b4919b65b4E4114806dD803901E1D9",
@@ -2822,7 +2113,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -2838,22 +2128,8 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-18433-FAUST",
-        "name": "RealT   18433 Faust Ave  Detroit  MI  4",
-        "address": "0x46F8A600337dec5CaB03aa9b8F67f1D5B788ce28",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16684/thumb/Faust-1.jpeg?1624633417",
-        "coingeckoId": "18433-faust",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -2866,7 +2142,6 @@
         "coingeckoId": "uniswap",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -2882,7 +2157,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -2914,19 +2188,6 @@
         ]
     },
     {
-        "symbol": "JPYC",
-        "name": "JPY Coin",
-        "address": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/25971/thumb/JPYC_logo_3D_cmyk_0-1_%282%29.jpg?1667467959",
-        "coingeckoId": "jpy-coin",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "xREAP",
         "name": "xREAP",
         "address": "0x42c6b3aC30Ae82D754498f56D9372F0070349409",
@@ -2949,7 +2210,6 @@
         "coingeckoId": "1hive-water",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance"
         ]
     },
@@ -2963,22 +2223,8 @@
         "coingeckoId": "jpyc",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-14319-ROSEM",
-        "name": "RealT   14319 Rosemary St  Detroit  MI ",
-        "address": "0x41599149f1B52035392402F9e311b1edb0C9f699",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16592/thumb/14319-Rosemary-hero-1-800x600.jpeg?1624539171",
-        "coingeckoId": "14319-rosemary",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -3006,7 +2252,6 @@
             "coingecko",
             "1inch",
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -3021,22 +2266,8 @@
         "coingeckoId": "mimatic",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-9165-KENSIN",
-        "name": "RealT   9165 Kensington Ave  Detroit  M",
-        "address": "0x3C56D5E887D8fA7AE1Ba65BF7eCCC25eC09EAF18",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16687/thumb/9165-Kensington-hero-1.jpeg?1624634948",
-        "coingeckoId": "9165-kensington",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -3063,7 +2294,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -3079,22 +2309,8 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "TORG",
-        "name": "TORG",
-        "address": "0x364b5975385B4DE226cF450dF82D7ed69902Ac5a",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/17596/thumb/TORG_Logo_200x200.png?1628586056",
-        "coingeckoId": "torg",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -3124,19 +2340,6 @@
         ]
     },
     {
-        "symbol": "REALT-S-19317-GABLE",
-        "name": "RealT   19317 Gable St  Detroit  MI 482",
-        "address": "0x34eD9e71449529E034d0326cfBB3b5ccDCa00CBC",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16638/thumb/19317-Gable-hero-1.jpeg?1624558479",
-        "coingeckoId": "19317-gable",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "HOT",
         "name": "HoloToken on xDai",
         "address": "0x346b2968508d32f0192cD7a60Ef3D9C39a3cF549",
@@ -3150,45 +2353,6 @@
         ]
     },
     {
-        "symbol": "REALT-S-19136-TRACE",
-        "name": "RealT   19136 Tracey St  Detroit MI 482",
-        "address": "0x33722EA778dF197f1b7B1Cf0b124d7A962181d65",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16706/thumb/19136-Tracey-hero-1.jpeg?1624644977",
-        "coingeckoId": "19136-tracey",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-17809-CHARE",
-        "name": "RealT   17809 Charest St  Detroit  MI 4",
-        "address": "0x31AA5fA895Fd186fDE12347A6fCaf540875b6434",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16601/thumb/17809-Charest-hero-1.jpg?1624543227",
-        "coingeckoId": "17809-charest",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-11653-NOTTI",
-        "name": "RealT   11653 Nottingham Rd  Detroit  M",
-        "address": "0x31820af2d43c08BD82Bd94B08974062482bD98D3",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16622/thumb/11653-Nottingham-hero-1.jpg?1624551450",
-        "coingeckoId": "11653-nottingham",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "PIE",
         "name": "DeFiPIE Token on xDai",
         "address": "0x317eab07380d670Ea814025CbA40f5624354a32f",
@@ -3199,45 +2363,6 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-14078-CARLI",
-        "name": "RealT   14078 Carlisle St  Detroit  MI ",
-        "address": "0x315699f1BA88383CFF2F2f30FcaD187aDb2E4D72",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16597/thumb/14078-Carlisle-hero-1-800x600.jpeg?1624541175",
-        "coingeckoId": "14078-carlisle",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-19596-GOULB",
-        "name": "RealT   19596 Goulburn Ave  Detroit  MI",
-        "address": "0x3150f0EbC0eFEe280b5348b9C8C271AD44Eb8B13",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16608/thumb/19596-Goulburn-hero-1.jpg?1624544786",
-        "coingeckoId": "19596-goulburn",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
-        "symbol": "REALT-S-19996-JOANN",
-        "name": "RealT   19996 Joann Ave  Detroit  MI 48",
-        "address": "0x311FC485f1FeA0c8Cc9b5c783E79f4313DDFa720",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16666/thumb/19996-Joanne-hero-1.jpg?1624626495",
-        "coingeckoId": "19996-joann",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -3286,9 +2411,8 @@
         "decimals": 18,
         "chainId": 100,
         "logoURI": "https://elk.finance/tokens/logos/xdai/0x2f9ceBf5De3bc25E0643D0E66134E5bf5c48e191/logo.png",
-        "coingeckoId": "brick",
+        "coingeckoId": null,
         "listedIn": [
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -3303,7 +2427,7 @@
         "coingeckoId": "jarvis-synthetic-swiss-franc",
         "listedIn": [
             "coingecko",
-            "rubic"
+            "lifinance"
         ]
     },
     {
@@ -3316,7 +2440,6 @@
         "coingeckoId": "fraction",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -3332,19 +2455,6 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-14494-CHELS",
-        "name": "RealT   14494 Chelsea Ave  Detroit  MI ",
-        "address": "0x2adc1cfA726A45264A328D9d2e2C692ceac97458",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16618/thumb/14494-Chelsea-hero-1.jpg?1624550267",
-        "coingeckoId": "14494-chelsea",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -3371,7 +2481,6 @@
         "listedIn": [
             "sushiswap",
             "openocean",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -3390,19 +2499,6 @@
         ]
     },
     {
-        "symbol": "REALT-S-19020-ROSEM",
-        "name": "RealT   19020 Rosemont Ave  Detroit  MI",
-        "address": "0x280e9ed3B20c580a2f4219657bB9332D80Bc01f1",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16705/thumb/19020-Rosemont-hero-1.jpeg?1624644549",
-        "coingeckoId": "19020-rosemont",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "SNAFU",
         "name": "SNAFU",
         "address": "0x27B9C2Bd4BaEa18ABdF49169054c1C1c12af9862",
@@ -3412,7 +2508,6 @@
         "coingeckoId": null,
         "listedIn": [
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -3467,7 +2562,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance"
         ]
     },
@@ -3482,19 +2576,6 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-9336-PATTON",
-        "name": "RealT   9336 Patton St  Detroit  MI 482",
-        "address": "0x23684569c0636C9aEa246551879d457D0a0E6F58",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16701/thumb/9336-Patton-HERO-2.jpeg?1624642655",
-        "coingeckoId": "9336-patton",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -3534,22 +2615,8 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-19200-STRAS",
-        "name": "RealT   19200 Strasburg St  Detroit  MI",
-        "address": "0x211618Fa0934910666f2C2731101F5A3aC013fD8",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16620/thumb/19200-Strasburg-hero-1.jpg?1624550918",
-        "coingeckoId": "19200-strasburg",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -3563,22 +2630,8 @@
         "listedIn": [
             "1inch",
             "sushiswap",
-            "rubic",
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-17500-EVERG",
-        "name": "RealT   17500 Evergreen Rd  Detroit  MI",
-        "address": "0x1FdB4015fD5E031C5641752C1e03B973ad5eA168",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16624/thumb/17500-Evergreen-hero-1.jpg?1624552051",
-        "coingeckoId": "17500-evergreen",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -3618,7 +2671,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance"
         ]
     },
@@ -3632,7 +2684,6 @@
         "coingeckoId": "cow-protocol",
         "listedIn": [
             "coingecko",
-            "rubic",
             "lifinance"
         ]
     },
@@ -3647,19 +2698,6 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "LEVIN",
-        "name": "Levin",
-        "address": "0x1698cD22278ef6E7c0DF45a8dEA72EDbeA9E42aa",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16004/thumb/JHqkC8Z.png?1622594623",
-        "coingeckoId": "levin",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -3780,19 +2818,6 @@
         ]
     },
     {
-        "symbol": "REALT-S-13116-KILBO",
-        "name": "RealT   13116 Kilbourne Ave  Detroit  M",
-        "address": "0x08Ad1F3a48Be1D23C723a6cC8486b247F5dE935a",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16679/thumb/13116-Kilbourne-hero-1.jpeg?1624630007",
-        "coingeckoId": "13116-kilbourne",
-        "listedIn": [
-            "coingecko",
-            "rubic"
-        ]
-    },
-    {
         "symbol": "TBTC",
         "name": "tBTC on xDai",
         "address": "0x0811E451447D5819976a95a02f130c3b00D59346",
@@ -3803,19 +2828,6 @@
         "listedIn": [
             "lifinance",
             "elkfinance"
-        ]
-    },
-    {
-        "symbol": "REALT-S-10617-HATHA",
-        "name": "RealT   10617 Hathaway Ave  Cleveland  ",
-        "address": "0x06D0e5Aee443093aC5635B709C8a01342E59Df19",
-        "decimals": 18,
-        "chainId": 100,
-        "logoURI": "https://assets.coingecko.com/coins/images/16709/thumb/10617-Hathaway-hero-1.jpeg?1624647056",
-        "coingeckoId": "10617-hathaway",
-        "listedIn": [
-            "coingecko",
-            "rubic"
         ]
     },
     {
@@ -3859,7 +2871,7 @@
     },
     {
         "symbol": "UNCX",
-        "name": "UniCrypt",
+        "name": "UNCX Network",
         "address": "0x0116e28B43A358162B96f70B4De14C98A4465f25",
         "decimals": 18,
         "chainId": 100,
@@ -3868,7 +2880,6 @@
         "listedIn": [
             "coingecko",
             "1inch",
-            "rubic",
             "lifinance",
             "elkfinance"
         ]
@@ -3879,12 +2890,11 @@
         "address": "0x0000000000000000000000000000000000000000",
         "decimals": 18,
         "chainId": 100,
-        "logoURI": "https://cloudstorage.openocean.finance/images/1641700780963_888840142160457.png",
+        "logoURI": "https://s3.openocean.finance/token_logos/logos/1641700780963_888840142160457.png",
         "coingeckoId": "gnosis",
         "listedIn": [
             "1inch",
             "openocean",
-            "rubic",
             "lifinance"
         ]
     }

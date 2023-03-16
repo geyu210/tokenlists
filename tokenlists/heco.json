@@ -452,7 +452,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://elk.finance/tokens/logos/heco/0xaAaE746b5e55D14398879312660e9fDe07FBC1DC/logo.png",
-        "coingeckoId": "pippi-finance",
+        "coingeckoId": null,
         "listedIn": [
             "openocean",
             "elkfinance"
@@ -1293,7 +1293,7 @@
         "address": "0x894b2917c783514c9e4c24229bF60f3Cb4c9c905",
         "decimals": 18,
         "chainId": 128,
-        "logoURI": "https://ethapi.openocean.finance/logos/heco/0x894b2917c783514c9e4c24229bf60f3cb4c9c905.png",
+        "logoURI": "https://s3.openocean.finance/token_logos/logos/heco/0x894b2917c783514c9e4c24229bf60f3cb4c9c905.png",
         "coingeckoId": null,
         "listedIn": [
             "sushiswap",
@@ -1917,7 +1917,7 @@
         "decimals": 18,
         "chainId": 128,
         "logoURI": "https://elk.finance/tokens/logos/heco/0x48C859531254F25e57D1C1A8E030Ef0B1c895c27/logo.png",
-        "coingeckoId": "depth-token",
+        "coingeckoId": null,
         "listedIn": [
             "openocean",
             "elkfinance"

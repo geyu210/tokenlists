@@ -244,6 +244,19 @@
         ]
     },
     {
+        "symbol": "stCELO",
+        "name": "Staked Celo",
+        "address": "0xC668583dcbDc9ae6FA3CE46462758188adfdfC24",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_stCELO.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "ubeswap"
+        ]
+    },
+    {
         "symbol": "WBTCv1",
         "name": "Optics WBTC v1",
         "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
@@ -285,7 +298,7 @@
     },
     {
         "symbol": "BNB",
-        "name": "Binance",
+        "name": "Anyswap BNB",
         "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
         "decimals": 18,
         "chainId": 42220,
@@ -311,7 +324,7 @@
     },
     {
         "symbol": "ETHIX",
-        "name": "EthicHub",
+        "name": "Ethix",
         "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
         "decimals": 18,
         "chainId": 42220,
@@ -381,7 +394,7 @@
     },
     {
         "symbol": "AVAX",
-        "name": "AVAX",
+        "name": "Allbridge AVAX",
         "address": "0x8E3670FD7B0935d3FE832711deBFE13BB689b690",
         "decimals": 18,
         "chainId": 42220,
@@ -575,6 +588,19 @@
         ]
     },
     {
+        "symbol": "G$",
+        "name": "GoodDollar",
+        "address": "0x62B8B11039FcfE5aB0C56E502b1C372A3d2a9c7A",
+        "decimals": 18,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_G$.png",
+        "coingeckoId": null,
+        "listedIn": [
+            "lifinance",
+            "ubeswap"
+        ]
+    },
+    {
         "symbol": "CLA",
         "name": "CeloLaunch",
         "address": "0x5927fd244E11dB1c7b1215619144d2aAbAc80a4F",
@@ -756,6 +782,20 @@
         ]
     },
     {
+        "symbol": "PLASTIK",
+        "name": "Plastiks",
+        "address": "0x27cd006548dF7C8c8e9fdc4A67fa05C2E3CA5CF9",
+        "decimals": 9,
+        "chainId": 42220,
+        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PLASTIK.png",
+        "coingeckoId": "plastiks",
+        "listedIn": [
+            "coingecko",
+            "lifinance",
+            "ubeswap"
+        ]
+    },
+    {
         "symbol": "cSHIBA",
         "name": "CeloShiba",
         "address": "0x22401536505dd5d85F7d57f8B37172feDa8f499d",
@@ -770,7 +810,7 @@
     },
     {
         "symbol": "FTM",
-        "name": "Fantom",
+        "name": "Anyswap FTM",
         "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
         "decimals": 18,
         "chainId": 42220,
