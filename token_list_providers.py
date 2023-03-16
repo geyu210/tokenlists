@@ -471,7 +471,7 @@ tokenlists_providers = [
     RouterProtocol,
     SpookySwap,
     Optimism,
-    ArbitrumBridge,
+    #ArbitrumBridge,
     #TraderJoe,
     Pangolin,
     PancakeSwap,
