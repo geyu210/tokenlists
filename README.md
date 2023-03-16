@@ -53,8 +53,8 @@ Token counts are approximate and may vary as providers update their tokenlists.
 - Optimism, 101 tokens
 - Aurora, 86 tokens
 - Harmony, 76 tokens
-- Cronos, 68 tokens
 - Celo, 68 tokens
+- Cronos, 68 tokens
 - Moonriver, 61 tokens
 - Okex, 48 tokens
 - Moonbeam, 34 tokens
